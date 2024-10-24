@@ -1,0 +1,11 @@
+h1{
+    color: purple;
+    text-align: center;
+    background-color: lavender;
+    line-height: 100px;
+    text-shadow: 12px 4px 12px plum;
+    font-size: 80px;
+}
+h1:hover{
+    background-color: lavenderblush;
+}
